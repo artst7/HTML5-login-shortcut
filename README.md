@@ -7,8 +7,6 @@ A simple custom extension to make login elements in HTML using quick commands, m
 A simple custom extension to make login elements in HTML or React with quick commands.  
 Made by ⭐artst.
 
-Got it, here’s a **clean README.md** you can copy directly into your project (no ChatGPT notes, just content).
-
 ````markdown
 # Auto UI Generator
 
